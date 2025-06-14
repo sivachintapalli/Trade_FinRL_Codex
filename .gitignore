@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# Virtual environment directories
+venv/
+env/
+.env/
+.venv/
+
+# Data cache and model checkpoints
+data/cache/
+models/
