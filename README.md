@@ -1,3 +1,4 @@
+
 # Trade FinRL Codex
 
 Trade FinRL Codex is a FinRL-based trading analysis platform. The goal of the project is to provide tools and examples for building algorithmic trading strategies using the open-source [FinRL](https://github.com/AI4Finance-Foundation/FinRL) framework.
@@ -6,10 +7,12 @@ Trade FinRL Codex is a FinRL-based trading analysis platform. The goal of the pr
 
 1. Install Python 3.10 or newer.
 2. Create a virtual environment and activate it:
+
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
    ```
+
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -36,4 +39,3 @@ Run the test suite:
 ```bash
 pytest
 ```
-
